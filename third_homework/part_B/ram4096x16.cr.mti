@@ -1,0 +1,22 @@
+D:/ModelSim/homework/third_homework/part_B/ram4096X16_tb.v {1 {vlog -work work -stats=none D:/ModelSim/homework/third_homework/part_B/ram4096X16_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ram4096X16_tb
+
+Top level modules:
+	ram4096X16_tb
+
+} {} {}} D:/ModelSim/homework/third_homework/part_B/ram1024X8.v {1 {vlog -work work -stats=none D:/ModelSim/homework/third_homework/part_B/ram1024X8.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ram1024x8
+
+Top level modules:
+	ram1024x8
+
+} {} {}} D:/ModelSim/homework/third_homework/part_B/ram4096X16.v {1 {vlog -work work -stats=none D:/ModelSim/homework/third_homework/part_B/ram4096X16.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ram4096X16
+
+Top level modules:
+	ram4096X16
+
+} {} {}}

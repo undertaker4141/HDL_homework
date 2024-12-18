@@ -1,0 +1,126 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ModelSim/homework/first_homework/part_B/pD-FF
+vcomparator_16b
+Z0 !s110 1729187850
+!i10b 1
+!s100 FKDFO:JS>9GB<bFN<Zd^G1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I4TL5IiPGoQ;c3XU0HC?iQ2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/ModelSim/homework/second_homework/part_A
+w1729175659
+8D:/ModelSim/homework/second_homework/part_A/16_bit_magnitude_comparator.v
+FD:/ModelSim/homework/second_homework/part_A/16_bit_magnitude_comparator.v
+!i122 36
+L0 2 24
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1729187850.000000
+!s107 D:/ModelSim/homework/second_homework/part_A/16_bit_magnitude_comparator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim/homework/second_homework/part_A/16_bit_magnitude_comparator.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vcomparator_16b_th
+R0
+!i10b 1
+!s100 7R1:mP@`RYfX`NPIjA:IY2
+R1
+IcD36@:AjW;5LgHIgJ793^3
+R2
+R3
+w1729177351
+8D:/ModelSim/homework/second_homework/part_A/16_bit_magnitude_comparator_tb.v
+FD:/ModelSim/homework/second_homework/part_A/16_bit_magnitude_comparator_tb.v
+!i122 37
+L0 3 25
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/ModelSim/homework/second_homework/part_A/16_bit_magnitude_comparator_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim/homework/second_homework/part_A/16_bit_magnitude_comparator_tb.v|
+!i113 1
+R6
+R7
+vcomparator_4b
+R0
+!i10b 1
+!s100 9CZl_^_HJPS<VF2[ZY44;2
+R1
+I33Q]EYJeLGEg[`K6I6X1d1
+R2
+R3
+w1729175660
+8D:/ModelSim/homework/second_homework/part_A/4_bit_magnitude_comparator.v
+FD:/ModelSim/homework/second_homework/part_A/4_bit_magnitude_comparator.v
+!i122 35
+L0 2 13
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/ModelSim/homework/second_homework/part_A/4_bit_magnitude_comparator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim/homework/second_homework/part_A/4_bit_magnitude_comparator.v|
+!i113 1
+R6
+R7
+vuniversal_counter
+!s110 1730626241
+!i10b 1
+!s100 OOl5<XhT9@BDH>hToHhAO3
+R1
+I=gZ7:_4H1ZnkPCPOdFJDm1
+R2
+R3
+w1730626232
+8D:\ModelSim\homework\third_homework\part_A\universal_counter.v
+FD:\ModelSim\homework\third_homework\part_A\universal_counter.v
+!i122 52
+L0 1 28
+R4
+r1
+!s85 0
+31
+!s108 1730626241.000000
+!s107 D:\ModelSim\homework\third_homework\part_A\universal_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\ModelSim\homework\third_homework\part_A\universal_counter.v|
+!i113 1
+R6
+R7
+vuniversal_counter_tb
+!s110 1730626242
+!i10b 1
+!s100 b;nB_?AVlmHj7;Q0z_Y7h2
+R1
+IeV5FmB:n]IJhf3WE;=0fm0
+R2
+R3
+w1730626235
+8D:/ModelSim/homework/third_homework/part_A/universal_counter_tb.v
+FD:/ModelSim/homework/third_homework/part_A/universal_counter_tb.v
+!i122 53
+L0 2 57
+R4
+r1
+!s85 0
+31
+!s108 1730626242.000000
+!s107 D:/ModelSim/homework/third_homework/part_A/universal_counter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim/homework/third_homework/part_A/universal_counter_tb.v|
+!i113 1
+R6
+R7

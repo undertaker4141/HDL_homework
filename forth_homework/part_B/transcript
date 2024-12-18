@@ -1,0 +1,199 @@
+# Compile of stopwatch.v was successful.
+# Compile of stopwatch_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stopwatch_tb
+# vsim work.stopwatch_tb 
+# Start time: 00:39:25 on Nov 16,2024
+# Loading work.stopwatch_tb
+# Loading work.stopwatch
+add wave -position insertpoint sim:/stopwatch_tb/*
+run -all
+# ** Note: $finish    : D:/ModelSim/homework/forth_homework/part_B/stopwatch_tb.v(38)
+#    Time: 350 sec  Iteration: 0  Instance: /stopwatch_tb
+# 1
+# Break in Module stopwatch_tb at D:/ModelSim/homework/forth_homework/part_B/stopwatch_tb.v line 38
+# Compile of stopwatch.v was successful.
+# Compile of stopwatch_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stopwatch_tb
+# End time: 00:41:19 on Nov 16,2024, Elapsed time: 0:01:54
+# Errors: 0, Warnings: 3
+# vsim work.stopwatch_tb 
+# Start time: 00:41:19 on Nov 16,2024
+# Loading work.stopwatch_tb
+# Loading work.stopwatch
+add wave -position insertpoint sim:/stopwatch_tb/*
+run -all
+# ** Note: $finish    : D:/ModelSim/homework/forth_homework/part_B/stopwatch_tb.v(38)
+#    Time: 350 sec  Iteration: 0  Instance: /stopwatch_tb
+# 1
+# Break in Module stopwatch_tb at D:/ModelSim/homework/forth_homework/part_B/stopwatch_tb.v line 38
+# Compile of stopwatch.v was successful.
+# Compile of stopwatch_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stopwatch_tb
+# End time: 00:46:12 on Nov 16,2024, Elapsed time: 0:04:53
+# Errors: 0, Warnings: 2
+# vsim work.stopwatch_tb 
+# Start time: 00:46:13 on Nov 16,2024
+# Loading work.stopwatch_tb
+# Loading work.stopwatch
+add wave -position insertpoint sim:/stopwatch_tb/*
+run -all
+# ** Note: $finish    : D:/ModelSim/homework/forth_homework/part_B/stopwatch_tb.v(38)
+#    Time: 350 sec  Iteration: 0  Instance: /stopwatch_tb
+# 1
+# Break in Module stopwatch_tb at D:/ModelSim/homework/forth_homework/part_B/stopwatch_tb.v line 38
+# Compile of stopwatch.v was successful.
+# Compile of stopwatch_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stopwatch_tb
+# End time: 00:49:09 on Nov 16,2024, Elapsed time: 0:02:56
+# Errors: 0, Warnings: 2
+# vsim work.stopwatch_tb 
+# Start time: 00:49:09 on Nov 16,2024
+# Loading work.stopwatch_tb
+# Loading work.stopwatch
+add wave -position insertpoint sim:/stopwatch_tb/*
+run -all
+# ** Note: $finish    : D:/ModelSim/homework/forth_homework/part_B/stopwatch_tb.v(34)
+#    Time: 350 sec  Iteration: 0  Instance: /stopwatch_tb
+# 1
+# Break in Module stopwatch_tb at D:/ModelSim/homework/forth_homework/part_B/stopwatch_tb.v line 34
+# Compile of stopwatch.v was successful.
+# Compile of stopwatch_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stopwatch_tb
+# End time: 00:50:35 on Nov 16,2024, Elapsed time: 0:01:26
+# Errors: 0, Warnings: 2
+# vsim work.stopwatch_tb 
+# Start time: 00:50:35 on Nov 16,2024
+# Loading work.stopwatch_tb
+# Loading work.stopwatch
+add wave -position insertpoint sim:/stopwatch_tb/*
+run -all
+# ** Note: $finish    : D:/ModelSim/homework/forth_homework/part_B/stopwatch_tb.v(31)
+#    Time: 350 sec  Iteration: 0  Instance: /stopwatch_tb
+# 1
+# Break in Module stopwatch_tb at D:/ModelSim/homework/forth_homework/part_B/stopwatch_tb.v line 31
+# Compile of stopwatch.v was successful.
+# Compile of stopwatch_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stopwatch_tb
+# End time: 00:52:27 on Nov 16,2024, Elapsed time: 0:01:52
+# Errors: 0, Warnings: 2
+# vsim work.stopwatch_tb 
+# Start time: 00:52:27 on Nov 16,2024
+# Loading work.stopwatch_tb
+# Loading work.stopwatch
+add wave -position insertpoint sim:/stopwatch_tb/*
+run -all
+# ** Note: $finish    : D:/ModelSim/homework/forth_homework/part_B/stopwatch_tb.v(31)
+#    Time: 350 sec  Iteration: 0  Instance: /stopwatch_tb
+# 1
+# Break in Module stopwatch_tb at D:/ModelSim/homework/forth_homework/part_B/stopwatch_tb.v line 31
+# Compile of stopwatch.v failed with 2 errors.
+# Compile of stopwatch_tb.v was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of stopwatch.v was successful.
+# Compile of stopwatch_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stopwatch_tb
+# End time: 01:00:23 on Nov 16,2024, Elapsed time: 0:07:56
+# Errors: 0, Warnings: 3
+# vsim work.stopwatch_tb 
+# Start time: 01:00:23 on Nov 16,2024
+# Loading work.stopwatch_tb
+# Loading work.stopwatch
+add wave -position insertpoint sim:/stopwatch_tb/*
+run -all
+# ** Note: $finish    : D:/ModelSim/homework/forth_homework/part_B/stopwatch_tb.v(31)
+#    Time: 350 sec  Iteration: 0  Instance: /stopwatch_tb
+# 1
+# Break in Module stopwatch_tb at D:/ModelSim/homework/forth_homework/part_B/stopwatch_tb.v line 31
+# Compile of stopwatch.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of stopwatch_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stopwatch_tb
+# End time: 01:03:03 on Nov 16,2024, Elapsed time: 0:02:40
+# Errors: 0, Warnings: 3
+# vsim work.stopwatch_tb 
+# Start time: 01:03:03 on Nov 16,2024
+# Loading work.stopwatch_tb
+# Loading work.stopwatch
+add wave -position insertpoint sim:/stopwatch_tb/*
+run -all
+# ** Note: $finish    : D:/ModelSim/homework/forth_homework/part_B/stopwatch_tb.v(31)
+#    Time: 350 sec  Iteration: 0  Instance: /stopwatch_tb
+# 1
+# Break in Module stopwatch_tb at D:/ModelSim/homework/forth_homework/part_B/stopwatch_tb.v line 31
+# Compile of stopwatch.v was successful.
+# Compile of stopwatch_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stopwatch_tb
+# End time: 01:44:12 on Nov 16,2024, Elapsed time: 0:41:09
+# Errors: 0, Warnings: 2
+# vsim work.stopwatch_tb 
+# Start time: 01:44:12 on Nov 16,2024
+# Loading work.stopwatch_tb
+# Loading work.stopwatch
+add wave -position insertpoint sim:/stopwatch_tb/*
+run -all
+# ** Note: $finish    : D:/ModelSim/homework/forth_homework/part_B/stopwatch_tb.v(31)
+#    Time: 350 sec  Iteration: 0  Instance: /stopwatch_tb
+# 1
+# Break in Module stopwatch_tb at D:/ModelSim/homework/forth_homework/part_B/stopwatch_tb.v line 31
+# Compile of stopwatch.v was successful.
+# Compile of stopwatch_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stopwatch_tb
+# End time: 01:48:25 on Nov 16,2024, Elapsed time: 0:04:13
+# Errors: 0, Warnings: 2
+# vsim work.stopwatch_tb 
+# Start time: 01:48:25 on Nov 16,2024
+# Loading work.stopwatch_tb
+# Loading work.stopwatch
+add wave -position insertpoint sim:/stopwatch_tb/*
+run -all
+# ** Note: $finish    : D:/ModelSim/homework/forth_homework/part_B/stopwatch_tb.v(31)
+#    Time: 350 sec  Iteration: 0  Instance: /stopwatch_tb
+# 1
+# Break in Module stopwatch_tb at D:/ModelSim/homework/forth_homework/part_B/stopwatch_tb.v line 31
+# Compile of stopwatch.v failed with 2 errors.
+# Compile of stopwatch_tb.v was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of stopwatch.v was successful.
+# Compile of stopwatch_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stopwatch_tb
+# End time: 01:52:05 on Nov 16,2024, Elapsed time: 0:03:40
+# Errors: 0, Warnings: 3
+# vsim work.stopwatch_tb 
+# Start time: 01:52:05 on Nov 16,2024
+# Loading work.stopwatch_tb
+# Loading work.stopwatch
+add wave -position insertpoint sim:/stopwatch_tb/*
+run -all
+# ** Note: $finish    : D:/ModelSim/homework/forth_homework/part_B/stopwatch_tb.v(31)
+#    Time: 350 sec  Iteration: 0  Instance: /stopwatch_tb
+# 1
+# Break in Module stopwatch_tb at D:/ModelSim/homework/forth_homework/part_B/stopwatch_tb.v line 31
+# Compile of stopwatch.v was successful.
+# Compile of stopwatch_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stopwatch_tb
+# End time: 01:53:53 on Nov 16,2024, Elapsed time: 0:01:48
+# Errors: 0, Warnings: 2
+# vsim work.stopwatch_tb 
+# Start time: 01:53:53 on Nov 16,2024
+# Loading work.stopwatch_tb
+# Loading work.stopwatch
+add wave -position insertpoint sim:/stopwatch_tb/*
+run -all
+# ** Note: $finish    : D:/ModelSim/homework/forth_homework/part_B/stopwatch_tb.v(31)
+#    Time: 350 sec  Iteration: 0  Instance: /stopwatch_tb
+# 1
+# Break in Module stopwatch_tb at D:/ModelSim/homework/forth_homework/part_B/stopwatch_tb.v line 31
+# End time: 05:13:25 on Nov 16,2024, Elapsed time: 3:19:32
+# Errors: 0, Warnings: 1

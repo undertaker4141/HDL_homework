@@ -1,0 +1,22 @@
+D:/ModelSim/homework/second_homework/part_A/16_bit_magnitude_comparator.v {1 {vlog -work work -stats=none D:/ModelSim/homework/second_homework/part_A/16_bit_magnitude_comparator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module comparator_16b
+
+Top level modules:
+	comparator_16b
+
+} {} {}} D:/ModelSim/homework/second_homework/part_A/4_bit_magnitude_comparator.v {1 {vlog -work work -stats=none D:/ModelSim/homework/second_homework/part_A/4_bit_magnitude_comparator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module comparator_4b
+
+Top level modules:
+	comparator_4b
+
+} {} {}} D:/ModelSim/homework/second_homework/part_A/16_bit_magnitude_comparator_tb.v {1 {vlog -work work -stats=none D:/ModelSim/homework/second_homework/part_A/16_bit_magnitude_comparator_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module comparator_16b_th
+
+Top level modules:
+	comparator_16b_th
+
+} {} {}}

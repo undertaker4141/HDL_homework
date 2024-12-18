@@ -1,0 +1,39 @@
+# Compile of ALU.v was successful.
+# Compile of ALU_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.ALU_tb
+# vsim work.ALU_tb 
+# Start time: 01:50:44 on Oct 18,2024
+# Loading work.ALU_tb
+# Loading work.ALU
+# Loading work.arithmetic
+# Loading work.logic
+# Loading work.MUX
+add wave -position insertpoint sim:/ALU_tb/*
+run -all
+# ** Note: $finish    : D:/ModelSim/homework/second_homework/part_B/ALU_tb.v(30)
+#    Time: 70 ns  Iteration: 0  Instance: /ALU_tb
+# 1
+# Break in Module ALU_tb at D:/ModelSim/homework/second_homework/part_B/ALU_tb.v line 30
+# Compile of ALU.v was successful.
+# Compile of ALU_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.ALU_tb
+# End time: 01:54:23 on Oct 18,2024, Elapsed time: 0:03:39
+# Errors: 0, Warnings: 3
+# vsim work.ALU_tb 
+# Start time: 01:54:23 on Oct 18,2024
+# Loading work.ALU_tb
+# Loading work.ALU
+# Loading work.arithmetic
+# Loading work.logic
+# Loading work.MUX
+add wave -position insertpoint sim:/ALU_tb/*
+run -all
+# ** Note: $finish    : D:/ModelSim/homework/second_homework/part_B/ALU_tb.v(31)
+#    Time: 80 ns  Iteration: 0  Instance: /ALU_tb
+# 1
+# Break in Module ALU_tb at D:/ModelSim/homework/second_homework/part_B/ALU_tb.v line 31
+# End time: 01:57:26 on Oct 18,2024, Elapsed time: 0:03:03
+# Errors: 0, Warnings: 1
+# Closing project D:/ModelSim/homework/second_homework/part_B/ALU.mpf

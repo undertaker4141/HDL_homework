@@ -1,0 +1,82 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ModelSim/homework/third_homework/part_A
+vram1024x8
+Z0 !s110 1730647583
+!i10b 1
+!s100 82YC5UIIb0WHZBM5A1VSB2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I;k3[6LUnnL>moX6dJ2dei0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/ModelSim/homework/third_homework/part_B
+w1730639369
+8D:/ModelSim/homework/third_homework/part_B/ram1024X8.v
+FD:/ModelSim/homework/third_homework/part_B/ram1024X8.v
+!i122 81
+L0 1 16
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1730647583.000000
+!s107 D:/ModelSim/homework/third_homework/part_B/ram1024X8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim/homework/third_homework/part_B/ram1024X8.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vram4096X16
+R0
+!i10b 1
+!s100 AhfXGjI7Pfdb6R4_>5l6K0
+R1
+I]4oL1NfGPj68[hE2E?V=d3
+R2
+R3
+w1730647568
+8D:/ModelSim/homework/third_homework/part_B/ram4096X16.v
+FD:/ModelSim/homework/third_homework/part_B/ram4096X16.v
+!i122 82
+L0 1 109
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/ModelSim/homework/third_homework/part_B/ram4096X16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim/homework/third_homework/part_B/ram4096X16.v|
+!i113 1
+R6
+R7
+nram4096@x16
+vram4096X16_tb
+!s110 1730647584
+!i10b 1
+!s100 LME80z[1kCeI]1mcZ9?V;1
+R1
+IDW>DgWEHIKE9a=ZmCjOXR1
+R2
+R3
+w1730643444
+8D:/ModelSim/homework/third_homework/part_B/ram4096X16_tb.v
+FD:/ModelSim/homework/third_homework/part_B/ram4096X16_tb.v
+!i122 83
+L0 31 148
+R4
+r1
+!s85 0
+31
+!s108 1730647584.000000
+!s107 D:/ModelSim/homework/third_homework/part_B/ram4096X16_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim/homework/third_homework/part_B/ram4096X16_tb.v|
+!i113 1
+R6
+R7
+nram4096@x16_tb

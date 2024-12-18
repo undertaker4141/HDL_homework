@@ -1,0 +1,22 @@
+# Compile of universal_counter.v was successful.
+# Compile of universal_counter_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of universal_counter.v was successful.
+# Compile of universal_counter_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.universal_counter_tb
+# vsim work.universal_counter_tb 
+# Start time: 17:29:58 on Nov 03,2024
+# Loading work.universal_counter_tb
+# Loading work.universal_counter
+# ** Error: (vsim-3043) Unresolved reference to 'break'.
+#    Time: 0 ps  Iteration: 0  Instance: /universal_counter_tb/test File: D:/ModelSim/homework/third_homework/part_A/universal_counter.v Line: 15
+# Error loading design
+# End time: 17:29:58 on Nov 03,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 3
+# Compile of universal_counter.v was successful.
+# Compile of universal_counter_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of universal_counter.v was successful.
+# Compile of universal_counter_tb.v was successful.
+# 2 compiles, 0 failed with no errors.

@@ -1,0 +1,15 @@
+D:/ModelSim/homework/first_homework/part_A/test.v {1 {vlog -work work -stats=none D:/ModelSim/homework/first_homework/part_A/test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}} D:/ModelSim/homework/first_homework/part_A/test_tb.v {1 {vlog -work work -stats=none {D:\ModelSim\homework\first_homework\part_A\test_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module test_tb
+
+Top level modules:
+	test_tb
+
+} {} {}}

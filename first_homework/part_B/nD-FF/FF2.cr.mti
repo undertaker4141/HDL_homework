@@ -1,0 +1,15 @@
+D:/ModelSim/homework/first_homework/part_B/nD-FF/FF2.v {1 {vlog -work work -stats=none D:/ModelSim/homework/first_homework/part_B/nD-FF/FF2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FF2_Async_Ver
+
+Top level modules:
+	FF2_Async_Ver
+
+} {} {}} D:/ModelSim/homework/first_homework/part_B/nD-FF/FF2_tb.v {1 {vlog -work work -stats=none D:/ModelSim/homework/first_homework/part_B/nD-FF/FF2_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FF2_tb
+
+Top level modules:
+	FF2_tb
+
+} {} {}}

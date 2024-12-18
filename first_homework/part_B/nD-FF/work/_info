@@ -1,0 +1,83 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ModelSim/homework/first_homework/part_B/pD-FF
+vFF2_Async_Ver
+Z0 !s110 1728639855
+!i10b 1
+!s100 aT^^_?e0SkEZiPOX66^OH3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IeCT6bS6;X@MnD6EY;<2j:1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/ModelSim/homework/first_homework/part_B/nD-FF
+w1728639828
+Z4 8D:/ModelSim/homework/first_homework/part_B/nD-FF/FF2.v
+Z5 FD:/ModelSim/homework/first_homework/part_B/nD-FF/FF2.v
+!i122 6
+Z6 L0 2 11
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1728639855.000000
+Z9 !s107 D:/ModelSim/homework/first_homework/part_B/nD-FF/FF2.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim/homework/first_homework/part_B/nD-FF/FF2.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+n@f@f2_@async_@ver
+vFF2_Sync_Ver
+!s110 1728578848
+!i10b 1
+!s100 0>3z>6STRfSM_78;?Hnnd2
+R1
+IOTH6<VCUoUO6h=BNc@JBZ2
+R2
+R3
+w1728577593
+R4
+R5
+!i122 4
+R6
+R7
+r1
+!s85 0
+31
+!s108 1728578848.000000
+R9
+R10
+!i113 1
+R11
+R12
+n@f@f2_@sync_@ver
+vFF2_tb
+R0
+!i10b 1
+!s100 F16go=SNLAV?n2kZ_H`E?3
+R1
+I7DemOaO8cb1Q9@bXGIN4n2
+R2
+R3
+w1728639826
+8D:/ModelSim/homework/first_homework/part_B/nD-FF/FF2_tb.v
+FD:/ModelSim/homework/first_homework/part_B/nD-FF/FF2_tb.v
+!i122 7
+L0 3 29
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/ModelSim/homework/first_homework/part_B/nD-FF/FF2_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim/homework/first_homework/part_B/nD-FF/FF2_tb.v|
+!i113 1
+R11
+R12
+n@f@f2_tb

@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ModelSim/homework/third_homework/part_B
+vdebounce
+!s110 1731675278
+!i10b 1
+!s100 HE7>4eQ7c48LM<U9]^;l]2
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I]`Pl@Go?ZCGhFTjQa>0[L3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/ModelSim/homework/forth_homework/part_A
+w1731675268
+8D:/ModelSim/homework/forth_homework/part_A/debounce.v
+FD:/ModelSim/homework/forth_homework/part_A/debounce.v
+!i122 12
+L0 1 86
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1731675278.000000
+!s107 D:/ModelSim/homework/forth_homework/part_A/debounce.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim/homework/forth_homework/part_A/debounce.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vdebounce_tb
+!s110 1731675279
+!i10b 1
+!s100 8WW:1JHoIa:H36>A=];fh3
+R0
+IGnlf73JcLoeVXK`zJYBM<1
+R1
+R2
+w1731674571
+8D:/ModelSim/homework/forth_homework/part_A/debounce_tb.v
+FD:/ModelSim/homework/forth_homework/part_A/debounce_tb.v
+!i122 13
+L0 2 41
+R3
+r1
+!s85 0
+31
+!s108 1731675279.000000
+!s107 D:/ModelSim/homework/forth_homework/part_A/debounce_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim/homework/forth_homework/part_A/debounce_tb.v|
+!i113 1
+R4
+R5
