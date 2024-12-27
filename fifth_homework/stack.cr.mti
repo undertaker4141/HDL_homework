@@ -1,0 +1,15 @@
+D:/ModelSim/homework/fifth_homework/stack.v {1 {vlog -work work -stats=none D:/ModelSim/homework/fifth_homework/stack.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module stack
+
+Top level modules:
+	stack
+
+} {} {}} D:/ModelSim/homework/fifth_homework/stack_tb.v {1 {vlog -work work -stats=none D:/ModelSim/homework/fifth_homework/stack_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module stack_tb
+
+Top level modules:
+	stack_tb
+
+} {} {}}

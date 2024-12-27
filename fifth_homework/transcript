@@ -1,0 +1,85 @@
+# Compile of stack.v failed with 8 errors.
+# Compile of stack_tb.v was successful.
+# 2 compiles, 1 failed with 8 errors.
+# Compile of stack.v failed with 4 errors.
+# Compile of stack_tb.v was successful.
+# 2 compiles, 1 failed with 4 errors.
+# Compile of stack.v failed with 7 errors.
+# Compile of stack_tb.v was successful.
+# 2 compiles, 1 failed with 7 errors.
+# Compile of stack.v failed with 3 errors.
+# Compile of stack_tb.v was successful.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of stack.v failed with 8 errors.
+# Compile of stack_tb.v was successful.
+# 2 compiles, 1 failed with 8 errors.
+# Compile of stack.v failed with 2 errors.
+# Compile of stack_tb.v was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of stack.v failed with 1 errors.
+# Compile of stack_tb.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of stack.v was successful.
+# Compile of stack_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stack_tb
+# vsim work.stack_tb 
+# Start time: 16:43:01 on Dec 27,2024
+# Loading work.stack_tb
+# Loading work.stack
+add wave -position insertpoint sim:/stack_tb/*
+run -all
+# ** Note: $finish    : D:/ModelSim/homework/fifth_homework/stack_tb.v(106)
+#    Time: 280 sec  Iteration: 0  Instance: /stack_tb
+# 1
+# Break in Module stack_tb at D:/ModelSim/homework/fifth_homework/stack_tb.v line 106
+# Compile of stack.v was successful.
+# Compile of stack_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stack_tb
+# End time: 16:52:14 on Dec 27,2024, Elapsed time: 0:09:13
+# Errors: 0, Warnings: 14
+# vsim work.stack_tb 
+# Start time: 16:52:14 on Dec 27,2024
+# Loading work.stack_tb
+# Loading work.stack
+add wave -position insertpoint sim:/stack_tb/*
+run -all
+# ** Note: $finish    : D:/ModelSim/homework/fifth_homework/stack_tb.v(106)
+#    Time: 280 sec  Iteration: 0  Instance: /stack_tb
+# 1
+# Break in Module stack_tb at D:/ModelSim/homework/fifth_homework/stack_tb.v line 106
+# Compile of stack.v was successful.
+# Compile of stack_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stack_tb
+# End time: 16:55:12 on Dec 27,2024, Elapsed time: 0:02:58
+# Errors: 0, Warnings: 2
+# vsim work.stack_tb 
+# Start time: 16:55:12 on Dec 27,2024
+# Loading work.stack_tb
+# Loading work.stack
+add wave -position insertpoint sim:/stack_tb/*
+run -all
+# ** Note: $finish    : D:/ModelSim/homework/fifth_homework/stack_tb.v(106)
+#    Time: 280 sec  Iteration: 0  Instance: /stack_tb
+# 1
+# Break in Module stack_tb at D:/ModelSim/homework/fifth_homework/stack_tb.v line 106
+# Compile of stack.v was successful.
+# Compile of stack_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stack_tb
+# End time: 17:07:20 on Dec 27,2024, Elapsed time: 0:12:08
+# Errors: 0, Warnings: 2
+# vsim work.stack_tb 
+# Start time: 17:07:20 on Dec 27,2024
+# Loading work.stack_tb
+# Loading work.stack
+add wave -position insertpoint sim:/stack_tb/*
+run -all
+# ** Note: $finish    : D:/ModelSim/homework/fifth_homework/stack_tb.v(106)
+#    Time: 280 sec  Iteration: 0  Instance: /stack_tb
+# 1
+# Break in Module stack_tb at D:/ModelSim/homework/fifth_homework/stack_tb.v line 106
+# End time: 17:12:48 on Dec 27,2024, Elapsed time: 0:05:28
+# Errors: 0, Warnings: 1
